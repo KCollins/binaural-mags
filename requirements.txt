@@ -8,5 +8,5 @@ matplotlib
 tqdm
 scipy
 spaudiopy
-supermag-api
 IPython
+magplots
