@@ -67,6 +67,60 @@
                 "IsImaginary": false,
                 "Channel": 6,
                 "Gain": 1.0
+            },
+                        {
+                "Instrument": "UPN",
+                "Azimuth": -30,
+                "Elevation": -90,
+                "Radius": 1,
+                "IsImaginary": false,
+                "Channel": 1,
+                "Gain": 1.0
+            },
+            {
+                "Instrument": "UMQ",
+                "Azimuth": -60,
+                "Elevation": 0.0,
+                "Radius": 1.0,
+                "IsImaginary": false,
+                "Channel": 2,
+                "Gain": 1.0
+            },
+            {
+                "Instrument": "GDH",
+                "Azimuth": -90,
+                "Elevation": 0.0,
+                "Radius": 1.0,
+                "IsImaginary": false,
+                "Channel": 3,
+                "Gain": 1.0
+            },
+            {
+                "Instrument": "ATU",
+                "Azimuth": -110,
+                "Elevation": 0,
+                "Radius": 1.0,
+                "IsImaginary": false,
+                "Channel": 4,
+                "Gain": 1.0
+            },
+            {
+                "Instrument": "SKT",
+                "Azimuth": -130,
+                "Elevation": 0,
+                "Radius": 1.0,
+                "IsImaginary": false,
+                "Channel": 5,
+                "Gain": 1.0
+            },
+            {
+                "Instrument": "GHB",
+                "Azimuth": -160,
+                "Elevation": 0,
+                "Radius": 1.0,
+                "IsImaginary": false,
+                "Channel": 6,
+                "Gain": 1.0
             }
         ]
     }
